@@ -36,28 +36,6 @@ matplotlib
 seaborn
 
 missingno
-
-# How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn missingno
-Place the exams.csv file in the project directory.
-
-Run the script:
-
-bash
-Copy
-Edit
-python your_script_name.py
 # Sample Visualizations
 Gender distribution pie chart
 
